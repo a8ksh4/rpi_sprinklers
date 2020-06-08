@@ -9,10 +9,10 @@ lookup = {
     'back2': 15,
     'back3': 18,
     'back4': 23,
-    'front1': 2,
-    'front2': 3,
-    'front3': 4,
-    'front4': 17 }
+    'front1': 4,
+    'front2': 17,
+    'front3': 27,
+    'front4': 22 }
 
 
 if __name__ == '__main__':
